@@ -6,9 +6,9 @@
 
 **Integrated M.Tech Student · VIT Bhopal University**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Samarth%20Shah-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_HERE)
-[![GitHub](https://img.shields.io/badge/GitHub-SamarthShah-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_HERE)
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=6c63ff&style=flat-square&label=Profile+Views)](https://github.com/YOUR_GITHUB_HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Samarth%20Shah-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/samarthksh)
+[![GitHub](https://img.shields.io/badge/GitHub-SamarthShah-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SamarthShah-001)
+[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=6c63ff&style=flat-square&label=Profile+Views)](https://github.com/SamarthShah-001)
 
 </div>
 
@@ -23,7 +23,7 @@ I believe in learning by building. Every project I take on is an attempt to go d
 - 🤖 &nbsp; Interested in **Machine Learning** and intelligent systems
 - 🏗️ &nbsp; Enjoy working on **systems-level problems** with clean OOP design
 - 🌐 &nbsp; Building across the stack — backend logic, CLI tools, and frontend UIs
-- 📍 &nbsp; Based in India · On GitHub since **2024**
+- 📍 &nbsp; Based in India · On GitHub since **2025**
 
 ---
 
@@ -60,9 +60,9 @@ I'm always open to connecting with fellow developers, collaborators, or anyone w
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_HERE)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/samarthksh)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_HERE)
+[![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SamarthShah-001)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
