@@ -1,8 +1,10 @@
 <div align="center">
 
-# Hi, I'm Samarth Shah 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Samarth%20Shah&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Integrated%20M.Tech%20%7C%20VIT%20Bhopal%20University&descColor=a78bfa&descAlignY=58&animation=fadeIn" width="100%"/>
 
-### Integrated M.Tech Student · VIT Bhopal University
+### Hi, I'm Samarth Shah 👋
+
+**Integrated M.Tech Student · VIT Bhopal University**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Samarth%20Shah-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_HERE)
 [![GitHub](https://img.shields.io/badge/GitHub-SamarthShah-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_HERE)
@@ -61,6 +63,8 @@ I'm always open to connecting with fellow developers, collaborators, or anyone w
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_HERE)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_HERE)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
 *This profile is a living document — it grows as I do.*
 
