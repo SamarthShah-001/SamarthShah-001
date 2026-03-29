@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Samarth%20Shah-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/samarthksh)
 [![GitHub](https://img.shields.io/badge/GitHub-SamarthShah-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SamarthShah-001)
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=6c63ff&style=flat-square&label=Profile+Views)](https://github.com/SamarthShah-001)
+
 
 </div>
 
